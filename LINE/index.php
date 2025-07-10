@@ -127,7 +127,7 @@ class MutiMessage{
 	
 	//建立旋轉木馬訊息(???)的函數
 	public function carousel($altText, $columns){	
-		error_log("準備回傳旋轉木馬訊息（殺小啦wwww");
+		error_log("準備回傳旋轉木馬訊息（殺小啦wwww123");
 		$message = array(
 			'type'=> "template",
 			'altText'=> $altText,
